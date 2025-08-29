@@ -60,7 +60,7 @@ A simple and interactive web application built with Streamlit that predicts a st
 **Clone the project**
 
 ```bash
-  git https://github.com/ahmadraja45517/Student-Performance-Predictor
+  git clone https://github.com/ahmadraja45517/Student-Performance-Predictor
 ```
 
 **Go to the project directory**
